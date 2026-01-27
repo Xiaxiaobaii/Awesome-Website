@@ -5,7 +5,7 @@ My Collection of Learning and Resource Websites
 
 ### Peterjxl
 Link: https://www.peterjxl.com/  
-Introduction: 一个个人博客，编写了关于计算机，Java，英语，锻炼，经济，娱乐等许多优质文章，从22年建站到现在依旧在坚持更新
+Introduction: 个人博客，编写了关于计算机，Java，英语，锻炼，经济，娱乐等许多优质文章，从22年建站到现在依旧在坚持更新
 
 ### MDN
 Link: https://developer.mozilla.org/zh-CN/   
@@ -13,7 +13,7 @@ Introduction: 想必是最好的HTML, CSS, Javascript教程站，很全面的文
 
 ### Circuitjs Web在线电路模拟
 Link: https://cc.xiaogd.net/   
-Introduction: 这个已经被收录的一塌糊涂的吧....电路模拟第一个就是他，不过还是收录一下充充数，作为电路模拟网站非常简洁明了，对于还没入门电路的我还是很有用的
+Introduction: 这个已经被收录的一塌糊涂的吧....作为电路模拟网站非常简洁明了，对于小白来说感觉还是很有用的
 
 ### 日本語の道
 Link: https://nihongomichi.com/   
@@ -116,5 +116,5 @@ Link: https://jelasin.github.io/
 Introduction: 主要内容主要用来记载Pwn、IoT、Car和Linux&&Win内核等相关内容。一个超级大佬的博客
 
 ### Cubic Wiki
-Link: https://nitwikit.8aka.org/
+Link: https://nitwikit.8aka.org/     
 Introduction: 主要针对高版本 Java 版和基岩版服务器的开服指南。非常不错的指南，有很多精华和实践
