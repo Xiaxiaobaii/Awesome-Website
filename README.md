@@ -115,6 +115,9 @@ Introduction: OI-WIKI，算法Wiki，一个算法竞赛知识整合站点
 Link: https://jelasin.github.io/       
 Introduction: 主要内容主要用来记载Pwn、IoT、Car和Linux&&Win内核等相关内容。一个超级大佬的博客
 
+### Jeff Geerling
+Link: https://www.jeffgeerling.com
+Introduction: 超级大佬的博客
 ### Cubic Wiki
 Link: https://nitwikit.8aka.org/     
 Introduction: 主要针对高版本 Java 版和基岩版服务器的开服指南。非常不错的指南，有很多精华和实践
