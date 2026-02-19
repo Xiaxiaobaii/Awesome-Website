@@ -123,6 +123,10 @@ Introduction: 超级大佬的博客
 Link: https://nitwikit.8aka.org/     
 Introduction: 主要针对高版本 Java 版和基岩版服务器的开服指南。非常不错的指南，有很多精华和实践
 
+### MTF Wiki
+Link: https://mtf.wiki/zh-hant/docs
+Introduttion: 是一个或许可以给跨性别女性与非常规性别群体提供帮助的地方
+
 ### Tomorrow-Land
 Link: https://beishanair.github.io
 Introduction: 专注于MC Mod的编写，Forge，Neoforge，Fabric均有涉猎，相比于许多教程来说更加清晰且知识密度高，学习MC Mod编写的不二之选
