@@ -130,3 +130,7 @@ Introduttion: 是一个或许可以给跨性别女性与非常规性别群体提
 ### Tomorrow-Land
 Link: https://beishanair.github.io
 Introduction: 专注于MC Mod的编写，Forge，Neoforge，Fabric均有涉猎，相比于许多教程来说更加清晰且知识密度高，学习MC Mod编写的不二之选
+
+### Archlinux简明指南
+Link: https://arch.icekylin.online/
+INtroduction: 相比与Archwiki来说，这本指南是更好的入门首选，全方位的教程+图文结合，从美化，专业领域，游戏，安装等等都非常合适
