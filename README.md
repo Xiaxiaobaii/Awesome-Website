@@ -133,4 +133,8 @@ Introduction: 专注于MC Mod的编写，Forge，Neoforge，Fabric均有涉猎�
 
 ### Archlinux简明指南
 Link: https://arch.icekylin.online/
-INtroduction: 相比与Archwiki来说，这本指南是更好的入门首选，全方位的教程+图文结合，从美化，专业领域，游戏，安装等等都非常合适
+Introduction: 相比与Archwiki来说，这本指南是更好的入门首选，全方位的教程+图文结合，从美化，专业领域，游戏，安装等等都非常合适
+
+### Litchi Pi
+Link: https://litchipi.site/
+Introduction: 个人博客，主要专注信息安全，Nix，Rust
