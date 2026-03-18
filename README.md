@@ -116,25 +116,25 @@ Link: https://jelasin.github.io/
 Introduction: 主要内容主要用来记载Pwn、IoT、Car和Linux&&Win内核等相关内容。一个超级大佬的博客
 
 ### Jeff Geerling
-Link: https://www.jeffgeerling.com
+Link: https://www.jeffgeerling.com       
 Introduction: 超级大佬的博客
 
 ### Cubic Wiki
-Link: https://nitwikit.8aka.org/     
+Link: https://nitwikit.8aka.org/       
 Introduction: 主要针对高版本 Java 版和基岩版服务器的开服指南。非常不错的指南，有很多精华和实践
 
 ### MTF Wiki
-Link: https://mtf.wiki/zh-hant/docs
+Link: https://mtf.wiki/zh-hant/docs      
 Introduttion: 是一个或许可以给跨性别女性与非常规性别群体提供帮助的地方
 
 ### Tomorrow-Land
-Link: https://beishanair.github.io
+Link: https://beishanair.github.io       
 Introduction: 专注于MC Mod的编写，Forge，Neoforge，Fabric均有涉猎，相比于许多教程来说更加清晰且知识密度高，学习MC Mod编写的不二之选
 
 ### Archlinux简明指南
-Link: https://arch.icekylin.online/
+Link: https://arch.icekylin.online/        
 Introduction: 相比与Archwiki来说，这本指南是更好的入门首选，全方位的教程+图文结合，从美化，专业领域，游戏，安装等等都非常合适
 
 ### Litchi Pi
-Link: https://litchipi.site/
+Link: https://litchipi.site/       
 Introduction: 个人博客，主要专注信息安全，Nix，Rust
