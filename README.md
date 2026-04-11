@@ -138,3 +138,7 @@ Introduction: 相比与Archwiki来说，这本指南是更好的入门首选，�
 ### Litchi Pi
 Link: https://litchipi.site/       
 Introduction: 个人博客，主要专注信息安全，Nix，Rust
+
+### 梨数码
+Link: https://lishuma.com/       
+Introduction: 个人博客，装机，评测，还有diy捡垃圾......站长也是一个很好的人！
