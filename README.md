@@ -144,5 +144,5 @@ Link: https://lishuma.com/
 Introduction: 个人博客，装机，评测，还有diy捡垃圾......站长也是一个很好的人！
 
 ### 东方Alist站点
-Link: https://alist.thdisc.tk/
+Link: https://alist.thdisc.tk/      
 Introduction: 绝对的....宝藏，拥有东方相关无数专辑
